@@ -260,9 +260,9 @@ h1{
     color:white;
     margin:5px 0px;
 }
-@media screen and (max-width: 280px) {
+@media screen and (max-width: 1300px) {
     .container2{
-        flex-direction: row-reverse;
+        flex-direction: column;
 
     }
 }
