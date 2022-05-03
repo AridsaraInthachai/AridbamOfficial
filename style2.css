@@ -196,3 +196,21 @@ h1{
     align-items: center;
     flex-wrap: wrap;
 }
+.top-bar
+{
+    width:50%;
+    height:4px;
+    position:absolute;
+    left:50%;
+    top:0px;
+    transform:translateX(-50%);
+    background-color:#d3ac2b;
+    border-radius: 0px 0px 10px 10px;
+}
+.details
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
