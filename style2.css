@@ -262,6 +262,6 @@ h1{
 }
 @media screen and (max-width: 280px) {
     .container2{
-        flex-direction: column;
+        flex-direction: row;
     }
 }
