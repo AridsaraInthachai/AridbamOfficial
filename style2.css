@@ -262,6 +262,7 @@ h1{
 }
 @media screen and (max-width: 280px) {
     .container2{
-        flex-direction: row;
+        flex-direction: row-reverse;
+
     }
 }
